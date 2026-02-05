@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+        .row div {
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        img {
+            object-fit: cover;
+            border-radius: 4px;
+        }
